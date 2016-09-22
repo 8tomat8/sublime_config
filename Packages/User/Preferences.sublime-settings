@@ -1,0 +1,40 @@
+{
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/Monokai (Flake8Lint).tmTheme",
+	"fold_buttons": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"_build",
+		"dist",
+		"build",
+		"site",
+		".bin",
+		".pyc",
+		"node_modules"
+	],
+	"font_face": "Source Code Pro Medium",
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"phoenix_dirty_bottom_bar": true,
+	"phoenix_eighties": true,
+	"phoenix_highlight_current_tab": true,
+	"phoenix_sidebar_tree_large": "xsmall",
+	"phoenix_solid_current_tab": true,
+	"phoenix_tabs_auto_width": true,
+	"phoenix_tabs_small": true,
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 4,
+	"theme": "Phoenix Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

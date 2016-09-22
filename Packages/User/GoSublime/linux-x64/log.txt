@@ -1,0 +1,22 @@
+
+** 2016-09-22 14:28:30.870461 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+Gocode pkg: "github.com/8tomat8/test_channels"
+Gocode env: gocode.margoEnv{LibPath:"/usr/lib/go/pkg/linux_amd64:/home/bhulii/Projects/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/lib/go", GOPATH:"/home/bhulii/Projects/go", InstallSuffix:""}
+
+** 2016-09-22 14:49:12.832754 **:
+GsPalette: cannot find import declarations
+--------------------------------
+
+** 2016-09-22 14:49:15.200770 **:
+GsPalette: cannot find import declarations
+--------------------------------
+
+** 2016-09-22 14:58:03.270101 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+Gocode pkg: "github.com/8tomat8/test_channels"
+Gocode env: gocode.margoEnv{LibPath:"/usr/lib/go/pkg/linux_amd64:/home/bhulii/Projects/go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/lib/go", GOPATH:"/home/bhulii/Projects/go", InstallSuffix:""}
